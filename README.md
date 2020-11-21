@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=3Alan.3Alan)
+ 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan)](https://github.com/anuraghazra/github-readme-stats)
