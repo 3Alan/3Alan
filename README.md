@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning `React`
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=3Alan.3Alan)
