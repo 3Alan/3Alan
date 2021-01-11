@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 #### 🌱 I’m currently learning `React`
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://github.com/3Alan/3Alan/blob/master/github-metrics.svg)
