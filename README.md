@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Hi there <a href="https://www.alanwang.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ##  Teck Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
