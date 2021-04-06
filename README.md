@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##  Teck Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-171b21?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-171b21?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-171b21?style=flat-square&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-171b21?style=flat-square&logo=Node.js)
