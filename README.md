@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there <a href="https://alanwang.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3Alan&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Teck Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-171b21?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-171b21?style=flat-square&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-171b21?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-171b21?style=flat-square&logo=vue.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-171b21?style=flat-square&logo=Node.js)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
