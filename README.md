@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there <a href="https://alanwang.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> 
-![Metrics](https://metrics.lecoq.io/3Alan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+<h1 align="center">Hi 👋, I'm <a href="https://alanwang.site/">Alan</a></h1>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=3Alan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Teck Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
