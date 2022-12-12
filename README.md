@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://alanwang.site/">Alan</a></h1>
 
-[![Alan's github activity graph](https://activity-graph.herokuapp.com/graph?username=3Alan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3Alan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Teck Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
