@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React**
 - <img src="https://komarev.com/ghpvc/?username=3alan&label=Profile%20views&color=0e75b6&style=flat" alt="3alan" />
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1L5Y7V)
 
 ##  Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,react,jest,nodejs,vue,docker)
