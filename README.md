@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm <a href="https://alanwang.site/">Alan</a></h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 📝 I regularly write articles on [http://alanwang.site/](http://alanwang.site/)
-
+- 📝 I regularly write articles on [alanwang.site](https://www.alanwang.site)
 - 💬 Ask me about **React**
+- 🔭 Looking for new career opportunities
 - <img src="https://komarev.com/ghpvc/?username=3alan&label=Profile%20views&color=0e75b6&style=flat" alt="3alan" />
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1L5Y7V)
 
