@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [alanwang.site](https://www.alanwang.site)
 - 💬 Ask me about **React**
-- 🔭 Looking for new career opportunities
+- 🔭 考虑新的工作机会
 - <img src="https://komarev.com/ghpvc/?username=3alan&label=Profile%20views&color=0e75b6&style=flat" alt="3alan" />
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1L5Y7V)
 
