@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 ##  Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,react,jest,nodejs,vue,docker)
 
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3Alan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
