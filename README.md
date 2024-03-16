@@ -17,10 +17,22 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [alanwang.site](https://www.alanwang.site)
 - 💬 Ask me about **React**
-- <img src="https://komarev.com/ghpvc/?username=3alan&label=Profile%20views&color=0e75b6&style=flat" alt="3alan" />
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1L5Y7V)
+<!-- - <img src="https://komarev.com/ghpvc/?username=3alan&label=Profile%20views&color=0e75b6&style=flat" alt="3alan" /> -->
+<!-- - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1L5Y7V) -->
 
-##  Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,react,jest,nodejs,vue,docker)
+  <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=49978973" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=49978973&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @3Alan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=49978973&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<br />
+<br />
+
+![My Skills](https://skillicons.dev/icons?i=vscode,ts,react,redux,jest,nodejs,vue,docker)
 
 
