@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![My Skills](https://skillicons.dev/icons?i=vscode,ts,react,redux,jest,nodejs,vue,docker)
+![My Skills](https://skillicons.dev/icons?i=vscode,ts,react,electron,tailwind,threejs,jest,nodejs,vue,docker)
 
 
